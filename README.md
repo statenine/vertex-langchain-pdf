@@ -1,2 +1,6 @@
 # vertex-langchain-pdf
-specific files from https://github.com/GoogleCloudPlatform/generative-ai for Garage Series demo
+
+The repository contains specific files from https://github.com/GoogleCloudPlatform/generative-ai.
+
+Disclaimer
+This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
